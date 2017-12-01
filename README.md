@@ -1,4 +1,4 @@
-# A1-Slack-Bot
+# Slack-Bot
 Assignment 1 Slack Bot Including Real Time Weather Integration
 
 The code main components come from this guide
